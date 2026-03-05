@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include "robot.h"
-
+// this sucks
 Robot robot;
 
 void setup() 
